@@ -25,4 +25,4 @@ Features of web application:
 
 3. Time and Space complexity of algorithm being visualized.
 I hope that you enjoy playing around with this visualizer tool as much as I enjoyed building it.
-You can access it here(use Google Chrome!):https://nitinadhikari01.github.io/visualizer-of-sorting.github.io/
+You can access it here(use Google Chrome!):https://nitinadhikari01.github.io/sorting-visualiser.github.io/
