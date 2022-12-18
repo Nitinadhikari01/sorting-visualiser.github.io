@@ -9,6 +9,8 @@ It visualise the implementation of sorting algorithms:
 4) Merge sort
 5) Quick sort
 6) Heap sort
+
+
 I  build this web application using html,css and javascript.
 It is a web application showcasing the inner workings of sorting algorithms.
 Features of web application:
