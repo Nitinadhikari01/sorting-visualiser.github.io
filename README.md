@@ -15,16 +15,16 @@ I  build this web application using html,css and javascript.
 It is a web application showcasing the inner workings of sorting algorithms.
 Features of web application:
 1. Colored representations(at the time of executing):
-  a. Blue :- default
+  a. Gray :- default
   b. Yellow :- Being compared
   c. Red :-  Incorrect position and to be moved
   d. Green :- Correct position
 
 2. Controls for visualizations:-
-  a) Speed of visualization (5 speed levels from 1 to 5 level)
+  a) Speed of visualization (time delay as we slid left to right)
   b) Data size ()
   c) Randomly generate new data.
 
-3. Time and Space complexity of algorithm being visualized.
+3. while processing it make a sound according to speed.
 I hope that you enjoy playing around with this visualizer tool as much as I enjoyed building it.
 You can access it here(use Google Chrome!):https://nitinadhikari01.github.io/sorting-visualiser.github.io/
